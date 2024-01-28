@@ -1,0 +1,44 @@
+Roda,surutka,68,7
+Idea,baget,85,1
+Roda,hleb crni,120,3
+Roda,sirni namaz,40,15
+Roda,burek,130,45
+Idea,jogurt 1l,130,4
+Roda,baget,80,8
+Maxi,hleb beli,70,11
+Roda,hleb beli,70,6
+Roda,jogurt 0.5l,70,2
+DIS,jogurt 1l,128,5
+Maxi,mleko,120,10
+DIS,sirnica,110,13
+DIS,mleko,110,3
+Roda,sirnica,90,4
+Maxi,sirni namaz,40,7
+Idea,hleb beli,65,22
+DIS,hleb beli,55,10
+Roda,jogurt 1l,140,40
+Idea,sirni namaz,45,80
+Maxi,burek,130,5
+Maxi,surutka,68,4
+Idea,burek,120,40
+DIS,sirni namaz,40,12
+Maxi,jogurt 0.5l,70,30
+Idea,surutka,65,15
+Roda,pavlaka 40%m.m.,80,1
+DIS,pavlaka 40%m.m.,70,7
+Maxi,pavlaka 40%m.m.,80,5
+DIS,jogurt 0.5l,70,4
+Idea,sirnica,100,4
+Idea,hleb crni,120,4
+DIS,hleb crni,120,22
+Idea,mleko,120,50
+DIS,surutka,72,5
+Maxi,baget,80,2
+Roda,mleko,120,4
+DIS,baget,80,3
+Maxi,sirnica,90,5
+Maxi,jogurt 1l,140,2
+Idea,pavlaka 40%m.m.,65,4
+Idea,jogurt 0.5l,70,5
+Maxi,hleb crni,120,4
+DIS,burek,130,7
