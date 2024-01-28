@@ -1,0 +1,18 @@
+Petar,paleo,2
+Stefan,vegan,9
+Veljko,vegan,4
+Sava,hrono,9
+Filip,paleo,3
+Kristina,hrono,5
+Dragan,bez glutena,8
+Ilija,paleo,8
+Vojin,vegan,8
+Balsa,bez glutena,4
+Ana,paleo,7
+Todor,hrono,2
+Andjela,paleo,3
+Marko,bez glutena,3
+Vladimir,bez glutena,4
+Bojana,bez glutena,8
+Vanja,vegan,10
+Teodora,vegan,4
